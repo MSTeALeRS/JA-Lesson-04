@@ -9,7 +9,7 @@
         <unpackNestedArchives>false</unpackNestedArchives>
       </options>
     </properties>
-    <root id="archive" name="JA-Shop-project-1.0-SNAPSHOT.war">
+    <root id="archive" name="lesson-04-0.0.1-SNAPSHOT.war">
       <element id="artifact" artifact-name="JA-Shop-project:war exploded" />
     </root>
   </artifact>
